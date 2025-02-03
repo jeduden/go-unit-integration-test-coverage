@@ -2,7 +2,7 @@ package main
 
 import "testing"
 
-func TestFibonacci(t *testing.T) {
+func TestFibonacciUnit(t *testing.T) {
 	tests := []struct {
 		input    int
 		expected int

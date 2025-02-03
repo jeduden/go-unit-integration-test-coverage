@@ -5,4 +5,7 @@ run:
 	./server
 
 test/unit:
-	go test -v -run TestFibonacci
+	go test -v -run TestFibonacciUnit
+
+test/integration:
+	go test -v -run TestFibonacciEndpoint
