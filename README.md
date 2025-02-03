@@ -1,2 +1,1 @@
-# go-unit-integration-test-coverage
-How merge unit and integration test coverage
+# How to merge unit and integration test coverage
